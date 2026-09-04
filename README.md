@@ -59,13 +59,13 @@ Another thing that could boost recall rate for more difficult words is to offer 
 ## Lag Rates
 
 
-![Average Lag Days per Course](images/lag-rates.png)
+![Average Lag Days per Course](images/lag_rates.png)
 
 *Graph 4: Average Lag Days per Course*
 
 The average lag day rate across all recorded languages is 8.4 days. This is a number of particular concern since no amount of algorithm optimization will matter if the user doesn't put in the effort!
 
-It is recommended that for the best vocabulary learning experience, Duolingo encourages users to use the app daily as much as possible, whether that be through push notifications, in-app incentives, or other means. Perhaps motivation could be given more to courses with the highest lag rates, such as eng → deutsch and less so for courses with low lag rates such as english → italian.
+It is recommended that for the best vocabulary learning experience, Duolingo encourages users to use the app daily as much as possible, whether that be through push notifications, in-app incentives, or other means. Perhaps motivation could be given more to courses with the highest lag rates, such as Eng → Deutsch and less so for courses with low lag rates such as English → Italian.
 
 ---
 
