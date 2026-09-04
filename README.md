@@ -24,7 +24,7 @@ Duolingo's review scheduling is powered by an algorithm called Half-Life Regress
 For reference, if a word were learned and never reviewed again, the likelihood of recalling it would decay over time as shown below - this is the classic forgetting curve.
 
 
-![Graph 2: Forgetting curve](images/forgetting-curve.png)
+![Graph 2: Forgetting curve](images/forgetting_curve.png)
 
 *Graph 2: Forgetting curve — Source: [Wikipedia](https://en.wikipedia.org/wiki/Forgetting_curve#/media/File:Forgetting_curve_decline.svg)*
 
